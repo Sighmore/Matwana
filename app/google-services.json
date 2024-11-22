@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144215010096",
+    "project_id": "matwana-a1e45",
+    "storage_bucket": "matwana-a1e45.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144215010096:android:d0a44d4d815d1f1130f6f5",
+        "android_client_info": {
+          "package_name": "inoxoft.simon.matwana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJH-LsWVRls5e1b2syzkBfhJ9VOCUPcX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
